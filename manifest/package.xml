@@ -8,5 +8,9 @@
         <members>WeatherAPI</members>
         <name>NamedCredential</name>
     </types>
+    <types>
+        <members>WeatherIcon</members>
+        <name>CspTrustedSite</name>
+    </types>
     <version>62.0</version>
 </Package>
