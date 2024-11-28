@@ -12,5 +12,13 @@
         <members>WeatherIcon</members>
         <name>CspTrustedSite</name>
     </types>
+    <types>
+        <members>WeatherAPI</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>currentWeather</members>
+        <name>LightningComponentBundle</name>
+    </types>
     <version>62.0</version>
 </Package>
